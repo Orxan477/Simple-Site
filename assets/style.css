@@ -1,0 +1,13 @@
+.index{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	text-decoration: none;
+}
+.index button{
+	font-size: 30px;
+}
+.index button:hover{
+	background-color: green;
+	color: black;
+}
